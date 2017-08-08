@@ -54,7 +54,7 @@ do
     notify-send 'Test failed'
     continue
   fi
-	echo "Test succeeded"
+  echo "Test succeeded"
 	
-	SKIP=0
+  SKIP=0
 done
